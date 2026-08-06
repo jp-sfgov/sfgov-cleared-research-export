@@ -28,4 +28,6 @@ See `PACKET_TEMPLATE.md` for the required shape.
 
 ## Provenance
 
-This repository receives content only in the personal → work → public direction, from packets reviewed against the private work repositories `jp-sfgov/sfgov-models-and-harnesses` and `jp-sfgov/sfgov-ccsf-compute`. It does not receive direct pushes carrying those repositories' history, and content flowing the other direction (public → private, or City → personal) is out of scope here entirely.
+This is the work-to-personal public export. It receives only small, self-contained packets originating from the private work repositories that Jeremy has affirmatively cleared for public disclosure. The personal machine may pull these public packets as read-only input. Private repositories, credentials, histories, and uncleared City files never cross.
+
+Personal-to-work exchange uses the separate public repository `jspidersf/models-and-harnesses-cleared-export`.
