@@ -12,6 +12,9 @@
 - **Source commits:**
 - **Intended destination repository or repositories:**
 - **Destination canonical document roles:**
+- **Transfer form:** graduated document | shared-baseline direct update
+- **Baseline content identity:** algorithm and full digest, when direct update
+- **Expected result identity:** algorithm and full digest, when direct update
 
 ## Purpose and context
 
@@ -56,6 +59,8 @@ Preserve material correction history and state what event, date, version, price,
 ## Integration guidance
 
 Name the receiving canonical homes, relationships to existing material, expected transformations, and any destination-specific framing that should remain distinct.
+
+For a shared-baseline direct update, also state the exact delta, destination role, mismatch behavior, result verification, and approval sequence.
 
 ## Exclusions and disclosure boundary
 
