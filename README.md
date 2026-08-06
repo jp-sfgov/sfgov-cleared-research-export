@@ -4,16 +4,9 @@
 
 ## What belongs here
 
-Only self-contained research packets that Jeremy has reviewed and cleared for public disclosure. A packet must record:
+Topic-bounded, full-fidelity research handoffs that Jeremy has reviewed and affirmatively cleared for public disclosure. A packet must let the receiving agent understand, verify, and integrate the cleared research without access to the originating private files — length is not the boundary, full disclosure-safe fidelity is.
 
-- Clearance date
-- Public sources (with links)
-- Source commit (from the originating private repository)
-- Intended destination (where or how this will be used or published)
-- Exclusions (what was deliberately left out, and why)
-- Unresolved caveats (open questions, unverified claims, pending corrections)
-
-See `PACKET_TEMPLATE.md` for the required shape.
+`PACKET_TEMPLATE.md` in this repository is the single canonical packet standard for both directions of exchange, personal → work and work → personal. Do not maintain a second packet template in either public export repository.
 
 ## What never belongs here
 
